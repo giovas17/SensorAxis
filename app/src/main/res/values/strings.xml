@@ -1,0 +1,7 @@
+<resources xmlns:gio="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">SensorAxis</string>
+    <string name="azimuth">Azimuth: <gio:g id="az">%1.1f</gio:g>\u00B0</string>
+    <string name="pitch">Pitch: <gio:g id="az">%1.1f</gio:g>\u00B0</string>
+    <string name="roll">Roll: <gio:g id="az">%1.1f</gio:g>\u00B0</string>
+    <string name="elevation">Elevation: <gio:g id="el">%1.1f</gio:g>\u00B0</string>
+</resources>
